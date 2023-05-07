@@ -33,7 +33,7 @@ const App = () => {
       {/* Add SearchBar and Posts here to render them */}
       {/* Soo jiido SearchBar iyo Posts components-ka hoos, si aad u muujiyo */}
 
-
+      <h2>WELCOME TO MY INSTAGRAM</h2>
       {/* Check the implementation of each component, to see what props they require, if any! */}
       {/* Fiiri sida loo sameeyo component-kasta, si aad u ogaato PROPS-ka ay u baahan tahay, hadayba jiraan props ay u baahanatahy! */}
     </div>
